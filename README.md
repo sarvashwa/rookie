@@ -1,0 +1,2 @@
+# rookie
+Mine first step
